@@ -28,4 +28,10 @@ code {
 
 .header {
     text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.input {
+    align-items: center;
 }
